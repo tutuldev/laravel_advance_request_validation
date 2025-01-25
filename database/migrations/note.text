@@ -1,0 +1,4 @@
+INSERT INTO students(name,email) VALUES ("Amitah Bachan" ,"amitab@gmail.com"),("salman khan" ,"salman@gmail.com"),("shahid kapor" ,"shahid@gmail.com")
+
+
+INSERT INTO libraries(stu_id,book,due_date,status) VALUES (1,"Book one","2023-06-30",1),(3,"Book Two","2023-06-28",1)
